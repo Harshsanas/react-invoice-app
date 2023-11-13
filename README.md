@@ -2,7 +2,7 @@
 
 to run this application
 
-Demo Link - # https://react-invoice-app-one.vercel.app/
+Demo Link - https://react-invoice-app-one.vercel.app/
 
 git pull origin https://github.com/Harshsanas/react-invoice-app.git
 
